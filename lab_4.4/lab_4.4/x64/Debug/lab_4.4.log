@@ -1,0 +1,22 @@
+﻿  Complex.cpp
+  lab_4.4.cpp
+  Pair.cpp
+  Rational.cpp
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(52,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(52,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(58,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(58,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(64,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(64,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(70,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(70,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(82,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(82,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(86,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(86,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(90,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(90,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(94,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_4.4\Rational.cpp(94,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  lab_4.4.vcxproj -> C:\Users\User\source\repos\lab_4.4\x64\Debug\lab_4.4.exe
