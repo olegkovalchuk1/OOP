@@ -1,0 +1,17 @@
+﻿  lab_6.7.cpp
+C:\Users\User\source\repos\lab_6.7\Array.h(25,41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.7.cpp')
+  
+C:\Users\User\source\repos\lab_6.7\Array.h(26,25): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.7.cpp')
+  
+C:\Users\User\source\repos\lab_6.7\Array.h(38,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.7.cpp')
+  
+C:\Users\User\source\repos\lab_6.7\Array.h(40,37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.7.cpp')
+  
+C:\Users\User\source\repos\lab_6.7\Array.h(41,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.7.cpp')
+  
+  lab_6.7.vcxproj -> C:\Users\User\source\repos\lab_6.7\x64\Debug\lab_6.7.exe
