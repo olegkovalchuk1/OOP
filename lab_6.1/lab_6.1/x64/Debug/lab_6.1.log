@@ -1,0 +1,53 @@
+﻿  Array.cpp
+  lab_6.1.cpp
+C:\Users\User\source\repos\lab_6.1\Array.h(26,41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(27,25): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(28,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(29,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(43,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(46,37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(47,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.cpp(4,41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\User\source\repos\lab_6.1\Array.cpp(14,57): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\User\source\repos\lab_6.1\Array.cpp(27,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\User\source\repos\lab_6.1\Array.cpp(40,30): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\User\source\repos\lab_6.1\Array.cpp(69,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\User\source\repos\lab_6.1\Array.cpp(77,66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\User\source\repos\lab_6.1\Array.cpp(85,39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\User\source\repos\lab_6.1\Array.h(26,41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.1.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(27,25): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.1.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(28,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.1.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(29,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.1.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(43,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.1.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(46,37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.1.cpp')
+  
+C:\Users\User\source\repos\lab_6.1\Array.h(47,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'lab_6.1.cpp')
+  
+  Generating Code...
+  lab_6.1.vcxproj -> C:\Users\User\source\repos\lab_6.1\x64\Debug\lab_6.1.exe
